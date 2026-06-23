@@ -6,7 +6,7 @@
   A centered profile container featuring a circular profile image, your name, a short bio, and a vertical stack of buttons linking to your social media profiles.
   
 # HTML concepts learned: 
-Heading tags (<h1>), paragraph tags (<p>), image tags (<img>), and anchor tags (<a>) for clickable links.
+Heading tags <h1>, paragraph tags (<p>), image tags (<img>), and anchor tags (<a>) for clickable links.
 
 # CSS concepts learned: 
 Background colors, rounding image borders (border-radius), changing fonts, centering items, and creating clean button hover states.
